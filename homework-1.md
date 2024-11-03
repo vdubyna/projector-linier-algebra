@@ -98,6 +98,7 @@ vector set form a liner space?
 7. ƛ ( a + b) = ƛa + ƛb - distributivity of scalar w.r.t. vectors
 8. (m + n) a = ma + na - distributivity w.r.t field addition
 
+---
 
 1. a + b = b + a  
 Якщо ми візьмемо два вектори на прямій, скажімо, $a = k_1 (1, 2)$ і $b = k_2 (1, 2)$,  
@@ -155,3 +156,5 @@ $(m + n) a = (m + n) k (1, 2) = (mk + nk)(1, 2)$
 $ma + na = (mk)(1, 2) + (nk)(1, 2) = (mk + nk)(1, 2)$  
 Отже, $(m + n) a = ma + na$ 
 
+---
+Множина векторів на прямій  x_2 = 2x_1  виконує всі 8 аксіом векторного простору, отже, вона дійсно утворює лінійний простір.
