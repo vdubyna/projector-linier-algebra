@@ -1,0 +1,501 @@
+eco_code,name
+D82,"Grunfeld, 4.Bf4 (D82)"
+A32,"English, Symmetrical Variation (A32)"
+A34,"English, Symmetrical (A34)"
+B06,Robatsch (B06)
+B03,Alekhine's Defense (B03)
+B08,"Pirc, Classical (B08)"
+D41,"Queen's Gambit Declined, Semi-Tarrasch (D41)"
+B18,"Caro-Kann, Classical (B18)"
+B17,"Caro-Kann, Steinitz Variation (B17)"
+C00,French Defense (C00)
+C01,"French, Exchange (C01)"
+C02,"French, Advance (C02)"
+C07,"French, Tarrasch (C07)"
+C09,"French, Tarrasch, Open Variation, Main line (C09)"
+C05,"French, Tarrasch (C05)"
+C34,King's Gambit Accepted (C34)
+C36,"King's Gambit Accepted, Abbazia Defense (C36)"
+C39,King's Gambit Accepted (C39)
+C43,"Petrov, Modern Attack (C43)"
+C42,Petrov Defense (C42)
+C53,Giuoco Piano (C53)
+C90,"Ruy Lopez, Closed (C90)"
+C93,"Ruy Lopez, Closed, Smyslov Defense (C93)"
+C92,"Ruy Lopez, Closed (C92)"
+C78,Ruy Lopez (C78)
+B22,"Sicilian, Alapin (B22)"
+B28,"Sicilian, O'Kelly Variation (B28)"
+B40,Sicilian (B40)
+B42,"Sicilian, Kan (B42)"
+B43,"Sicilian, Kan, 5.Nc3 (B43)"
+B49,"Sicilian, Taimanov Variation (B49)"
+B31,"Sicilian, Rossolimo Variation (B31)"
+B33,Sicilian (B33)
+B76,"Sicilian, Dragon, Yugoslav Attack (B76)"
+B80,"Sicilian, Scheveningen (B80)"
+B84,"Sicilian, Scheveningen (B84)"
+B85,"Sicilian, Scheveningen, Classical (B85)"
+B57,Sicilian (B57)
+B90,"Sicilian, Najdorf (B90)"
+B92,"Sicilian, Najdorf, Opocensky Variation (B92)"
+A84,Dutch (A84)
+D02,Queen's Pawn Game (D02)
+D07,"Queen's Gambit Declined, Chigorin Defense (D07)"
+D31,Queen's Gambit Declined (D31)
+D19,"Queen's Gambit Declined Slav, Dutch (D19)"
+D32,"Queen's Gambit Declined, Tarrasch (D32)"
+D37,Queen's Gambit Declined (D37)
+D45,Queen's Gambit Declined Semi-Slav (D45)
+D46,Queen's Gambit Declined Semi-Slav (D46)
+A46,Queen's Pawn Game (A46)
+A56,Benoni Defense (A56)
+E08,"Catalan, Closed (E08)"
+E11,Bogo-Indian Defense (E11)
+E14,Queen's Indian (E14)
+E15,Queen's Indian (E15)
+E16,Queen's Indian (E16)
+E18,"Queen's Indian, Old Main line, 7.Nc3 (E18)"
+E54,"Nimzo-Indian, 4.e3, Gligoric System (E54)"
+E61,King's Indian (E61)
+E97,King's Indian (E97)
+A50,Queen's Pawn Game (A50)
+B66,"Sicilian, Richter-Rauzer Attack, 7...a6 (B66)"
+A42,"Modern Defense, Averbakh System (A42)"
+D03,Torre Attack (Tartakower Variation) (D03)
+D90,Grunfeld (D90)
+B25,"Sicilian, Closed (B25)"
+B07,Pirc (B07)
+B01,Scandinavian (B01)
+E43,"Nimzo-Indian, Fischer Variation (E43)"
+C41,Philidor Defense (C41)
+B16,"Caro-Kann, Bronstein-Larsen Variation (B16)"
+A30,"English, Symmetrical (A30)"
+A49,"King's Indian, Fianchetto without c4 (A49)"
+A07,King's Indian Attack (A07)
+A04,Reti Opening (A04)
+A12,English with b3 (A12)
+D44,Queen's Gambit Declined Semi-Slav (D44)
+C77,Ruy Lopez (C77)
+E10,Queen's Pawn Game (E10)
+E70,King's Indian (E70)
+A54,"Old Indian, Ukrainian Variation, 4.Nf3 (A54)"
+A85,"Dutch, with c4 & Nc3 (A85)"
+A88,"Dutch, Leningrad, Main Variation with c6 (A88)"
+B93,"Sicilian, Najdorf, 6.f4 (B93)"
+D64,"Queen's Gambit Declined, Orthodox, Rubinstein Attack (D64)"
+C18,"French, Winawer (C18)"
+A40,Queen's Pawn Game (A40)
+D55,Queen's Gambit Declined (D55)
+E26,"Nimzo-Indian, Samisch (E26)"
+B35,"Sicilian, Accelerated Fianchetto, Modern Variation with Bc4 (B35)"
+E91,King's Indian (E91)
+A57,Benko Gambit (A57)
+E99,"King's Indian, Orthodox, Taimanov (E99)"
+E94,"King's Indian, Orthodox (E94)"
+A37,"English, Symmetrical (A37)"
+A87,"Dutch, Leningrad, Main Variation (A87)"
+A51,Budapest Gambit (A51)
+A48,King's Indian (A48)
+A70,"Benoni, Classical with 7.Nf3 (A70)"
+D89,Grunfeld (D89)
+D24,Queen's Gambit Accepted (D24)
+B00,Uncommon King's Pawn Opening (B00)
+A01,Nimzovich-Larsen Attack (A01)
+B27,Sicilian (B27)
+D85,Grunfeld (D85)
+D61,"Queen's Gambit Declined, Orthodox, Rubinstein Attack (D61)"
+B10,Caro-Kann (B10)
+B72,"Sicilian, Dragon (B72)"
+D00,Queen's Pawn Game (D00)
+A03,Bird's Opening (A03)
+C47,Four Knights (C47)
+C44,King's Pawn Game (C44)
+B74,"Sicilian, Dragon, Classical (B74)"
+B70,"Sicilian, Dragon Variation (B70)"
+B83,Sicilian (B83)
+C54,Giuoco Piano (C54)
+D40,"Queen's Gambit Declined, Semi-Tarrasch (D40)"
+B53,Sicilian (B53)
+B73,"Sicilian, Dragon, Classical (B73)"
+D08,"Queen's Gambit Declined, Albin Counter Gambit (D08)"
+E75,"King's Indian, Averbakh, Main line (E75)"
+B02,Alekhine's Defense (B02)
+B23,"Sicilian, Closed (B23)"
+B12,Caro-Kann Defense (B12)
+A29,"English, Four Knights, Kingside Fianchetto (A29)"
+A17,English (A17)
+D25,Queen's Gambit Accepted (D25)
+B21,"Sicilian, 2.f4 and 2.d4 (B21)"
+B11,"Caro-Kann, Two Knights, 3...Bg4 (B11)"
+C67,Ruy Lopez (C67)
+C21,Center Game (C21)
+E57,"Nimzo-Indian, 4.e3, Main line with 8...dc and 9...cd (E57)"
+C84,"Ruy Lopez, Closed (C84)"
+B15,Caro-Kann (B15)
+A89,"Dutch, Leningrad, Main Variation with Nc6 (A89)"
+C63,"Ruy Lopez, Schliemann Defense (C63)"
+D58,"Queen's Gambit Declined, Tartakower (Makagonov-Bondarevsky) Syst (D58)"
+B13,"Caro-Kann, Exchange (B13)"
+E30,"Nimzo-Indian, Leningrad (E30)"
+B88,"Sicilian, Fischer-Sozin Attack (B88)"
+D09,"Queen's Gambit Declined, Albin Counter Gambit, 5.g3 (D09)"
+A44,Old Benoni Defense (A44)
+D97,"Grunfeld, Russian (D97)"
+E24,"Nimzo-Indian, Samisch (E24)"
+A59,Benko Gambit (A59)
+D36,"Queen's Gambit Declined, Exchange, Positional line, 6.Qc2 (D36)"
+E81,"King's Indian, Samisch (E81)"
+E90,King's Indian (E90)
+E66,"King's Indian, Fianchetto, Yugoslav Panno (E66)"
+D68,"Queen's Gambit Declined, Orthodox Defense, Classical (D68)"
+E86,"King's Indian, Samisch, Orthodox, 7.Nge2 c6 (E86)"
+E12,Queen's Indian (E12)
+A10,English (A10)
+A18,"English, Mikenas-Carls (A18)"
+A31,"English, Symmetrical, Benoni Formation (A31)"
+E48,"Nimzo-Indian, 4.e3 O-O 5.Bd3 d5 (E48)"
+C08,"French, Tarrasch, Open, 4.ed ed (C08)"
+B95,"Sicilian, Najdorf, 6...e6 (B95)"
+E92,King's Indian (E92)
+B79,"Sicilian, Dragon, Yugoslav Attack, 12.h4 (B79)"
+D05,Queen's Pawn Game (D05)
+D04,Queen's Pawn Game (D04)
+A38,"English, Symmetrical (A38)"
+D74,"Neo-Grunfeld, 6.cd Nxd5, 7.O-O (D74)"
+C56,Two Knights (C56)
+B46,"Sicilian, Taimanov Variation (B46)"
+D50,Queen's Gambit Declined (D50)
+D52,Queen's Gambit Declined (D52)
+B44,Sicilian (B44)
+C10,French (C10)
+A21,English (A21)
+D78,"Neo-Grunfeld, 6.O-O c6 (D78)"
+E06,"Catalan, Closed, 5.Nf3 (E06)"
+A20,English (A20)
+E87,"King's Indian, Samisch, Orthodox (E87)"
+B62,"Sicilian, Richter-Rauzer (B62)"
+A26,English (A26)
+A53,Old Indian (A53)
+A67,"Benoni, Taimanov Variation (A67)"
+E76,"King's Indian, Four Pawns Attack (E76)"
+E78,"King's Indian, Four Pawns Attack, with Be2 and Nf3 (E78)"
+A68,"Benoni, Four Pawns Attack (A68)"
+D38,"Queen's Gambit Declined, Ragozin Variation (D38)"
+D63,"Queen's Gambit Declined, Orthodox Defense (D63)"
+E72,King's Indian (E72)
+A25,English (A25)
+A39,"English, Symmetrical, Main line with d4 (A39)"
+A36,English (A36)
+A93,"Dutch, Stonewall, Botvinnik Variation (A93)"
+E69,"King's Indian, Fianchetto, Classical Main line (E69)"
+C45,Scotch Game (C45)
+B14,"Caro-Kann, Panov-Botvinnik Attack (B14)"
+B55,"Sicilian, Prins Variation, Venice Attack (B55)"
+B41,"Sicilian, Kan (B41)"
+D13,"Queen's Gambit Declined Slav, Exchange Variation (D13)"
+E51,"Nimzo-Indian, 4.e3 (E51)"
+E56,"Nimzo-Indian, 4.e3, Main line with 7...Nc6 (E56)"
+C87,Ruy Lopez (C87)
+C48,Four Knights (C48)
+C55,Two Knights Defense (C55)
+B09,"Pirc, Austrian Attack (B09)"
+D28,"Queen's Gambit Accepted, Classical (D28)"
+B24,"Sicilian, Closed (B24)"
+B52,"Sicilian, Canal-Sokolsky (Rossolimo) Attack (B52)"
+B81,"Sicilian, Scheveningen, Keres Attack (B81)"
+D22,Queen's Gambit Accepted (D22)
+D29,"Queen's Gambit Accepted, Classical (D29)"
+A65,"Benoni, 6.e4 (A65)"
+E25,"Nimzo-Indian, Samisch (E25)"
+E41,Nimzo-Indian (E41)
+A35,"English, Symmetrical (A35)"
+E62,"King's Indian, Fianchetto (E62)"
+D75,"Neo-Grunfeld, 6.cd Nxd5, 7.O-O c5, 8.dxc5 (D75)"
+E80,"King's Indian, Samisch Variation (E80)"
+E88,"King's Indian, Samisch, Orthodox, 7.d5 c6 (E88)"
+E93,"King's Indian, Petrosian System (E93)"
+D30,Queen's Gambit Declined (D30)
+A72,"Benoni, Classical without 9.O-O (A72)"
+A33,"English, Symmetrical (A33)"
+C17,"French, Winawer, Advance (C17)"
+B34,"Sicilian, Accelerated Fianchetto (B34)"
+B96,"Sicilian, Najdorf (B96)"
+B45,"Sicilian, Taimanov (B45)"
+B89,Sicilian (B89)
+B32,Sicilian (B32)
+E67,"King's Indian, Fianchetto (E67)"
+A43,Old Benoni (A43)
+C15,"French, Winawer (C15)"
+E82,"King's Indian, Samisch, double Fianchetto Variation (E82)"
+E32,"Nimzo-Indian, Classical (E32)"
+A00,Uncommon Opening (A00)
+C51,Evans Gambit (C51)
+C95,"Ruy Lopez, Closed, Breyer (C95)"
+C62,"Ruy Lopez, Old Steinitz Defense (C62)"
+A58,Benko Gambit (A58)
+D53,Queen's Gambit Declined (D53)
+A08,King's Indian Attack (A08)
+C46,Three Knights (C46)
+C94,"Ruy Lopez, Closed, Breyer Defense (C94)"
+E59,"Nimzo-Indian, 4.e3, Main line (E59)"
+B36,"Sicilian, Accelerated Fianchetto (B36)"
+B20,Sicilian (B20)
+E83,"King's Indian, Samisch (E83)"
+E84,"King's Indian, Samisch, Panno Main line (E84)"
+A15,English (A15)
+D10,Queen's Gambit Declined Slav (D10)
+D35,Queen's Gambit Declined (D35)
+A75,"Benoni, Classical with ...a6 and 10...Bg4 (A75)"
+A71,"Benoni, Classical, 8.Bg5 (A71)"
+A62,"Benoni, Fianchetto Variation (A62)"
+A61,Benoni (A61)
+E74,"King's Indian, Averbakh, 6...c5 (E74)"
+E73,King's Indian (E73)
+E00,Queen's Pawn Game (E00)
+D66,"Queen's Gambit Declined, Orthodox Defense, Bd3 line (D66)"
+B48,"Sicilian, Taimanov Variation (B48)"
+B86,"Sicilian, Fischer-Sozin Attack (B86)"
+C98,"Ruy Lopez, Closed, Chigorin (C98)"
+E42,"Nimzo-Indian, 4.e3 c5, 5.Ne2 (Rubinstein) (E42)"
+E52,"Nimzo-Indian, 4.e3, Main line with ...b6 (E52)"
+D15,Queen's Gambit Declined Slav (D15)
+D18,"Queen's Gambit Declined Slav, Dutch (D18)"
+B05,"Alekhine's Defense, Modern (B05)"
+C11,French (C11)
+C27,Vienna Game (C27)
+C59,Two Knights (C59)
+B04,"Alekhine's Defense, Modern (B04)"
+C19,"French, Winawer, Advance (C19)"
+C72,"Ruy Lopez, Modern Steinitz Defense, 5.O-O (C72)"
+C99,"Ruy Lopez, Closed, Chigorin, 12...cd (C99)"
+B78,"Sicilian, Dragon, Yugoslav Attack, 10.castle long (B78)"
+B64,"Sicilian, Richter-Rauzer Attack (B64)"
+B67,"Sicilian, Richter-Rauzer Attack, 7...a6 Defense, 8...Bd7 (B67)"
+B56,Sicilian (B56)
+B60,"Sicilian, Richter-Rauzer (B60)"
+C76,"Ruy Lopez, Modern Steinitz Defense, Fianchetto Variation (C76)"
+C79,"Ruy Lopez, Steinitz Defense Deferred (C79)"
+B99,"Sicilian, Najdorf, 7...Be7 Main line (B99)"
+B30,Sicilian (B30)
+C80,"Ruy Lopez, Open (C80)"
+B38,"Sicilian, Accelerated Fianchetto, Maroczy Bind, 6.Be3 (B38)"
+D70,Neo-Grunfeld Defense (D70)
+A09,Reti Opening (A09)
+C24,Bishop's Opening (C24)
+A19,"English, Mikenas-Carls, Sicilian Variation (A19)"
+C83,"Ruy Lopez, Open (C83)"
+C91,"Ruy Lopez, Closed (C91)"
+C14,"French, Classical (C14)"
+C33,King's Gambit Accepted (C33)
+C30,King's Gambit Declined (C30)
+C03,"French, Tarrasch (C03)"
+C69,"Ruy Lopez, Exchange, Gligoric Variation (C69)"
+A02,Bird's Opening (A02)
+D67,"Queen's Gambit Declined, Orthodox Defense, Bd3 line (D67)"
+E20,Nimzo-Indian (E20)
+C89,"Ruy Lopez, Marshall (C89)"
+C06,"French, Tarrasch (C06)"
+B77,"Sicilian, Dragon, Yugoslav Attack (B77)"
+D14,"Queen's Gambit Declined Slav, Exchange Variation (D14)"
+A45,Queen's Pawn Game (A45)
+E01,"Catalan, Closed (E01)"
+C13,French (C13)
+B50,Sicilian (B50)
+D79,"Neo-Grunfeld, 6.O-O, Main line (D79)"
+C97,"Ruy Lopez, Closed, Chigorin (C97)"
+B26,"Sicilian, Closed, 6.Be3 (B26)"
+A55,"Old Indian, Main line (A55)"
+C66,Ruy Lopez (C66)
+B61,"Sicilian, Richter-Rauzer, Larsen Variation, 7.Qd2 (B61)"
+D87,"Grunfeld, Exchange (D87)"
+A52,Budapest Gambit (A52)
+B59,"Sicilian, Boleslavsky Variation, 7.Nb3 (B59)"
+C26,Vienna (C26)
+B29,"Sicilian, Nimzovich-Rubinstein (B29)"
+B39,"Sicilian, Accelerated Fianchetto, Breyer Variation (B39)"
+C82,"Ruy Lopez, Open (C82)"
+C96,"Ruy Lopez, Closed (C96)"
+D42,"Queen's Gambit Declined, Semi-Tarrasch, 7.Bd3 (D42)"
+E46,Nimzo-Indian (E46)
+A60,Benoni Defense (A60)
+C16,"French, Winawer (C16)"
+D12,Queen's Gambit Declined Slav (D12)
+A80,Dutch (A80)
+D43,Queen's Gambit Declined Semi-Slav (D43)
+E38,"Nimzo-Indian, Classical, 4...c5 (E38)"
+A41,Queen's Pawn Game (with ...d6) (A41)
+E05,"Catalan, Open, Classical line (E05)"
+A13,English (A13)
+E39,"Nimzo-Indian, Classical, Pirc Variation (E39)"
+B91,"Sicilian, Najdorf, Zagreb (Fianchetto) Variation (B91)"
+C57,Two Knights (C57)
+A90,Dutch (A90)
+A47,Queen's Indian (A47)
+C50,Giuoco Piano (C50)
+D94,Grunfeld (D94)
+D06,Queen's Gambit Declined (D06)
+D93,"Grunfeld, with Bf4 & e3 (D93)"
+C35,"King's Gambit Accepted, Cunningham (C35)"
+D16,Queen's Gambit Declined Slav (D16)
+A81,Dutch (A81)
+E60,King's Indian Defense (E60)
+B75,"Sicilian, Dragon, Yugoslav Attack (B75)"
+A05,Reti Opening (A05)
+C29,Vienna Gambit (C29)
+C49,Four Knights (C49)
+D60,"Queen's Gambit Declined, Orthodox Defense (D60)"
+C88,Ruy Lopez (C88)
+C85,"Ruy Lopez, Exchange Variation Doubly Deferred (DERLD) (C85)"
+C12,"French, McCutcheon (C12)"
+B51,"Sicilian, Canal-Sokolsky (Rossolimo) Attack (B51)"
+C64,"Ruy Lopez, Classical (C64)"
+B47,"Sicilian, Taimanov (Bastrikov) Variation (B47)"
+C70,Ruy Lopez (C70)
+C04,"French, Tarrasch, Guimard Main line (C04)"
+C68,"Ruy Lopez, Exchange (C68)"
+C60,Ruy Lopez (C60)
+E07,"Catalan, Closed (E07)"
+E04,"Catalan, Open, 5.Nf3 (E04)"
+B87,"Sicilian, Fischer-Sozin with ...a6 and ...b5 (B87)"
+D34,"Queen's Gambit Declined, Tarrasch (D34)"
+E44,"Nimzo-Indian, Fischer Variation, 5.Ne2 (E44)"
+D20,Queen's Gambit Accepted (D20)
+E68,"King's Indian, Fianchetto, Classical Variation, 8.e4 (E68)"
+D23,Queen's Gambit Accepted (D23)
+C52,Evans Gambit (C52)
+E89,"King's Indian, Samisch, Orthodox Main line (E89)"
+C40,King's Knight Opening (C40)
+C61,"Ruy Lopez, Bird's Defense (C61)"
+D91,"Grunfeld, 5.Bg5 (D91)"
+E64,"King's Indian, Fianchetto, Yugoslav System (E64)"
+E22,"Nimzo-Indian, Spielmann Variation (E22)"
+A23,"English, Bremen System, Keres Variation (A23)"
+E34,"Nimzo-Indian, Classical, Noa Variation (E34)"
+A27,"English, Three Knights System (A27)"
+A22,English (A22)
+A28,English (A28)
+A16,English (A16)
+B82,"Sicilian, Scheveningen (B82)"
+E17,Queen's Indian (E17)
+A69,"Benoni, Four Pawns Attack, Main line (A69)"
+E53,"Nimzo-Indian, 4.e3 (E53)"
+A77,"Benoni, Classical, 9...Re8, 10.Nd2 (A77)"
+A14,English (A14)
+B37,"Sicilian, Accelerated Fianchetto (B37)"
+D17,Queen's Gambit Declined Slav (D17)
+E47,"Nimzo-Indian, 4.e3 O-O 5.Bd3 (E47)"
+D77,"Neo-Grunfeld, 6.O-O (D77)"
+D48,"Queen's Gambit Declined Semi-Slav, Meran (D48)"
+D59,"Queen's Gambit Declined, Tartakower (D59)"
+E33,"Nimzo-Indian, Classical (E33)"
+E31,"Nimzo-Indian, Leningrad, Main line (E31)"
+A24,"English, Bremen System with ...g6 (A24)"
+B19,"Caro-Kann, Classical (B19)"
+C81,"Ruy Lopez, Open, Howell Attack (C81)"
+C74,"Ruy Lopez, Modern Steinitz Defense (C74)"
+C58,Two Knights (C58)
+B98,"Sicilian, Najdorf (B98)"
+A11,"English, Caro-Kann Defensive System (A11)"
+C65,"Ruy Lopez, Berlin Defense (C65)"
+C75,"Ruy Lopez, Modern Steinitz Defense (C75)"
+B58,Sicilian (B58)
+D11,Queen's Gambit Declined Slav (D11)
+E02,"Catalan, Open, 5.Qa4 (E02)"
+E03,"Catalan, Open (E03)"
+D26,Queen's Gambit Accepted (D26)
+E95,"King's Indian, Orthodox, 7...Nbd7, 8.Re1 (E95)"
+B63,"Sicilian, Richter-Rauzer Attack (B63)"
+E85,"King's Indian, Samisch, Orthodox Variation (E85)"
+C20,King's Pawn Game (C20)
+C71,Ruy Lopez (C71)
+D27,"Queen's Gambit Accepted, Classical (D27)"
+A63,"Benoni, Fianchetto, 9...Nbd7 (A63)"
+D92,"Grunfeld, 5.Bf4 (D92)"
+B97,"Sicilian, Najdorf (B97)"
+C37,King's Gambit Accepted (C37)
+A06,Reti Opening (A06)
+E35,"Nimzo-Indian, Classical, Noa Variation, 5.cd ed (E35)"
+D33,"Queen's Gambit Declined, Tarrasch (D33)"
+A94,"Dutch, Stonewall with Ba3 (A94)"
+A92,Dutch (A92)
+E98,"King's Indian, Orthodox, Taimanov, 9.Ne1 (E98)"
+A97,"Dutch, Ilyin-Genevsky (A97)"
+D47,Queen's Gambit Declined Semi-Slav (D47)
+E21,"Nimzo-Indian, Three Knights (E21)"
+E27,"Nimzo-Indian, Samisch Variation (E27)"
+C32,"King's Gambit Declined, Falkbeer Counter Gambit (C32)"
+D01,Richter-Veresov Attack (D01)
+C31,"King's Gambit Declined, Falkbeer Counter Gambit (C31)"
+C28,Vienna Game (C28)
+C25,Vienna (C25)
+A64,"Benoni, Fianchetto, 11...Re8 (A64)"
+B69,"Sicilian, Richter-Rauzer Attack, 7...a6 Defense, 11.Bxf6 (B69)"
+B68,"Sicilian, Richter-Rauzer Attack, 7...a6 Defense, 9...Be7 (B68)"
+E09,"Catalan, Closed (E09)"
+E77,King's Indian (E77)
+A86,Dutch (A86)
+B54,Sicilian (B54)
+D88,"Grunfeld, Spassky Variation, Main line, 10...cd, 11.cd (D88)"
+A73,"Benoni, Classical, 9.O-O (A73)"
+C38,King's Gambit Accepted (C38)
+D80,Grunfeld (D80)
+C22,Center Game (C22)
+C73,"Ruy Lopez, Modern Steinitz Defense (C73)"
+C86,"Ruy Lopez, Worrall Attack (C86)"
+B65,"Sicilian, Richter-Rauzer Attack, 7...Be7 Defense, 9...Nxd4 (B65)"
+E65,"King's Indian, Fianchetto, Yugoslav, 7.O-O (E65)"
+A99,"Dutch, Ilyin-Genevsky Variation with b3 (A99)"
+A95,"Dutch, Stonewall (A95)"
+A79,"Benoni, Classical, 11.f3 (A79)"
+D95,Grunfeld (D95)
+E96,"King's Indian, Orthodox, 7...Nbd7, Main line (E96)"
+D96,"Grunfeld, Russian Variation (D96)"
+D62,"Queen's Gambit Declined, Orthodox, Rubinstein Attack (D62)"
+E19,"Queen's Indian, Old Main line, 9.Qxc3 (E19)"
+E55,"Nimzo-Indian, 4.e3, Gligoric System, Bronstein Variation (E55)"
+B94,"Sicilian, Najdorf (B94)"
+A82,"Dutch, Staunton Gambit (A82)"
+E45,"Nimzo-Indian, 4.e3, Bronstein (Byrne) Variation (E45)"
+E49,"Nimzo-Indian, 4.e3, Botvinnik System (E49)"
+D99,"Grunfeld Defense, Smyslov (D99)"
+A98,"Dutch, Ilyin-Genevsky Variation with Qc2 (A98)"
+E50,"Nimzo-Indian, 4.e3 O-O 5.Nf3, without ...d5 (E50)"
+A76,"Benoni, Classical, 9...Re8 (A76)"
+A83,"Dutch, Staunton Gambit (A83)"
+D73,"Neo-Grunfeld, 5.Nf3 (D73)"
+B71,"Sicilian, Dragon, Levenfish Variation (B71)"
+E13,"Queen's Indian, 4.Nc3, Main line (E13)"
+E63,"King's Indian, Fianchetto, Panno Variation (E63)"
+D65,"Queen's Gambit Declined, Orthodox, Rubinstein Attack, Main line (D65)"
+D76,"Neo-Grunfeld, 6.cd Nxd5, 7.O-O Nb6 (D76)"
+D51,Queen's Gambit Declined (D51)
+D21,Queen's Gambit Accepted (D21)
+D69,"Queen's Gambit Declined, Orthodox Defense, Classical, 13.de (D69)"
+D54,"Queen's Gambit Declined, Anti-Neo-Orthodox Variation (D54)"
+D56,Queen's Gambit Declined (D56)
+D39,"Queen's Gambit Declined, Ragozin, Vienna Variation (D39)"
+A91,Dutch Defense (A91)
+E71,"King's Indian, Makagonov System (5.h3) (E71)"
+E28,"Nimzo-Indian, Samisch Variation (E28)"
+E79,"King's Indian, Four Pawns Attack, Main line (E79)"
+D71,Neo-Grunfeld (D71)
+E23,"Nimzo-Indian, Spielmann (E23)"
+D86,"Grunfeld, Exchange (D86)"
+C23,Bishop's Opening (C23)
+E29,"Nimzo-Indian, Samisch (E29)"
+D57,"Queen's Gambit Declined, Lasker Defense (D57)"
+D49,"Queen's Gambit Declined Semi-Slav, Meran (D49)"
+D72,"Neo-Grunfeld, 5.cd, Main line (D72)"
+D98,"Grunfeld, Russian (D98)"
+D81,"Grunfeld, Russian Variation (D81)"
+D84,"Grunfeld, Grunfeld Gambit Accepted (D84)"
+E37,"Nimzo-Indian, Classical (E37)"
+E36,"Nimzo-Indian, Classical (E36)"
+E40,"Nimzo-Indian, 4.e3 (E40)"
+E58,"Nimzo-Indian, 4.e3, Main line with 8...Bxc3 (E58)"
+A96,"Dutch, Classical Variation (A96)"
+A78,"Benoni, Classical with ...Re8 and ...Na6 (A78)"
+A74,"Benoni, Classical, 9...a6, 10.a4 (A74)"
+D83,"Grunfeld, Grunfeld Gambit (D83)"
+A66,Benoni (A66)
